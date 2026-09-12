@@ -1,0 +1,7 @@
+"activity_id","activity","board_or_committee","executive_sponsor","compliance_owner","process_owner","independent_assurance","evidence","status"
+"EXAMPLE-RACI-01","Approve compliance policy","A","R","C","C","I","Approval record and adopted policy","Illustrative allocation"
+"EXAMPLE-RACI-02","Assess regulatory change","I","A","R","C","C","Authority memo and applicability decision","Illustrative allocation"
+"EXAMPLE-RACI-03","Operate assigned control","I","A","C","R","I","Dated control execution record","Illustrative allocation"
+"EXAMPLE-RACI-04","Approve exception within delegation","I","A","R","C","C","Exception rationale and expiry decision","Illustrative allocation"
+"EXAMPLE-RACI-05","Test control independently","I","A","C","C","R","Test scope findings and follow-up","Illustrative allocation"
+"EXAMPLE-RACI-06","Review material issue escalation","A","R","R","C","C","Board pack and recorded decision","Illustrative allocation"

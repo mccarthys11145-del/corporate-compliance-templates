@@ -1,0 +1,2 @@
+"review_id","record_type","review_date","reviewer","artifact_or_record_id","source_checked","finding","decision","action_owner","target_date","evidence_location","status"
+"EXAMPLE-REVIEW-01","Illustrative","","","EXAMPLE-RISK-01","","","","","","","Not started"
